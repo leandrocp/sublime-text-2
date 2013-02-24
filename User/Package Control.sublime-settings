@@ -1,0 +1,21 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Abacus",
+		"AngularJS",
+		"BufferScroll",
+		"ChangeQuotes",
+		"ColorPicker",
+		"Dayle Rees Color Schemes",
+		"DetectSyntax",
+		"Git",
+		"HtmlTidy",
+		"IndentGuides",
+		"Package Control",
+		"SideBarEnhancements",
+		"Sublime-HTMLPrettify",
+		"SublimeJava",
+		"Theme - Soda"
+	]
+}

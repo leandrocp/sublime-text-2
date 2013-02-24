@@ -1,0 +1,96 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.gem",
+		"*.tar",
+		"*.tar.gz",
+		"*.fmb",
+		"*.fmx",
+		"*.rdf",
+		"*.mmb",
+		"*.mmx",
+		"*.olb",
+		"*.pll",
+		"*.plx"
+	],
+	"bold_folder_labels": true,
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Dayle Rees Color Schemes/Darkside.tmTheme",
+	"drag_text": false,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.log",
+		".DS_Store",
+		"*.sqlite3",
+		"*.rbx",
+		".tags*",
+		"Gemfile.lock",
+		"*.pyc",
+		"*.fmb",
+		"*.fmx",
+		"*.rdf",
+		"*.mmb",
+		"*.mmx",
+		"*.olb",
+		"*.pll",
+		"*.plx",
+		"*.~*"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		"coverage",
+		"tmp",
+		"pkg",
+		".sass-cache",
+		"node_modules"
+	],
+	"font_face": "DejaVu Sans Mono",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 13.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 0.5,
+	"line_padding_top": 0.5,
+	"margin": 2,
+	"new_window_settings":
+	{
+		"show_minimap": false
+	},
+	"open_files_in_new_window": true,
+	"preview_on_click": true,
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": false,
+	"show_full_path": true,
+	"soda_classic_tabs": false,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

@@ -1,0 +1,71 @@
+{
+    "com.khiltd.abacus.debug": false,
+    "com.khiltd.abacus.separators":
+    [
+        {
+            "token":                "IN",
+            "gravity":              "right",
+            "preserve_indentation": true
+        },
+        {
+            "token":                "IN OUT",
+            "gravity":              "right",
+            "preserve_indentation": true
+        },
+        {
+            "token":                ":",
+            "gravity":              "right",
+            "preserve_indentation": true
+        },
+        {
+            "token":                "=",
+            "gravity":              "right",
+            "preserve_indentation": true
+        },
+        {
+            "token":                "+=",
+            "gravity":              "right",
+            "preserve_indentation": true
+        },
+        {
+            "token":                "-=",
+            "gravity":              "right",
+            "preserve_indentation": true
+        },
+        {
+            "token":                ":=",
+            "gravity":              "right",
+            "preserve_indentation": true
+        },
+        {
+            "token":                "*=",
+            "gravity":              "right",
+            "preserve_indentation": true
+        },
+        {
+            "token":                "/=",
+            "gravity":              "right",
+            "preserve_indentation": true
+        },
+        {
+            "token":                "?=",
+            "gravity":              "right",
+            "preserve_indentation": true
+        },
+        {
+            "token":                "||=",
+            "gravity":              "right",
+            "preserve_indentation": true
+        },
+        {
+            "token":                "%=",
+            "gravity":              "right",
+            "preserve_indentation": true
+        },
+        {
+            "token":                "==",
+            "gravity":              "right",
+            "preserve_indentation": true
+        }
+    ]
+}
